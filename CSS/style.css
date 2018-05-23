@@ -1,0 +1,30 @@
+body{
+/*    background-color: azure;*/
+    
+}
+
+.navbar-nav > .nav-link{
+    margin: auto 3.5em;
+    font-family: 'Oswald', sans-serif;
+    
+}
+.header{
+    color: #8e8e8e;
+    font-family: 'Black Han Sans', sans-serif;
+    margin-bottom: -0.1em;
+}
+.frontinfo{
+    text-align: center;
+    margin: 80px;
+}
+.frontinfo > h1{
+    font-family: 'Anton', sans-serif;
+    color: #535353;
+}
+.detailedinfo > .col-md > h4{
+    font-family: 'Anton', sans-serif;
+}
+.detailedinfo{
+    margin: 2em auto;
+    text-align: center;
+}
